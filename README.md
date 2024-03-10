@@ -2,13 +2,10 @@
 # Sadhana Fluter_app
 ### Table of contents
 - [System requirements](#system-requirements)
-- [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)
 - [Check the UI of the entire app](#app-navigations)
 - [Application structure](#project-structure)
 - [How to format your code?](#how-you-can-do-code-formatting)
-- [How you can improve code readability?](#how-you-can-improve-the-readability-of-code)
 - [Libraries and tools used](#libraries-and-tools-used)
-- [Support](#support)
 
 ### System requirements
 
@@ -46,11 +43,7 @@ After successful build, your application structure should look like this:
   ```
   dart format .
   ```
-
-### How you can improve code readability?
-
-Resolve the errors and warnings that are shown in the application.
-
+  
 ### Libraries and tools used
 
 - Provider - State management
