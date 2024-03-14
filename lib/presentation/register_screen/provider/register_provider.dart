@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import '../../../core/app_export.dart';
 import '../models/register_model.dart';
 
 /// A provider class for the RegisterScreen.

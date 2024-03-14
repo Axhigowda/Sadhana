@@ -1,5 +1,4 @@
 import 'package:abhishek_s_application/widgets/custom_text_form_field.dart';
-import 'models/splash_zero_model.dart';
 import 'package:flutter/material.dart';
 import 'package:abhishek_s_application/core/app_export.dart';
 import 'provider/splash_zero_provider.dart';

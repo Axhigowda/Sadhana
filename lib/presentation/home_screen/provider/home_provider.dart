@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../../core/app_export.dart';
 import '../models/home_model.dart';
-import 'package:calendar_date_picker2/calendar_date_picker2.dart';
 
 /// A provider class for the HomeScreen.
 ///

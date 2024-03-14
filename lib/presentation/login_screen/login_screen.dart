@@ -3,7 +3,6 @@ import 'package:abhishek_s_application/widgets/app_bar/appbar_leading_image.dart
 import 'package:abhishek_s_application/widgets/custom_text_form_field.dart';
 import 'package:abhishek_s_application/core/utils/validation_functions.dart';
 import 'package:abhishek_s_application/widgets/custom_elevated_button.dart';
-import 'models/login_model.dart';
 import 'package:flutter/material.dart';
 import 'package:abhishek_s_application/core/app_export.dart';
 import 'provider/login_provider.dart';

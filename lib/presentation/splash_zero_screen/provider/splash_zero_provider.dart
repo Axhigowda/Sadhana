@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import '../../../core/app_export.dart';
 import '../models/splash_zero_model.dart';
 
 /// A provider class for the SplashZeroScreen.

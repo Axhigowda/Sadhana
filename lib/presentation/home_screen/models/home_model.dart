@@ -1,5 +1,4 @@
 import 'package:abhishek_s_application/core/app_export.dart';
-import '../../../core/app_export.dart';
 
 class HomeModel {
   List<SelectionPopupModel> dropdownItemList = [
